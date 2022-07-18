@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950920014629",
+    "firebase_url": "https://bustracker-497d8-default-rtdb.firebaseio.com",
+    "project_id": "bustracker-497d8",
+    "storage_bucket": "bustracker-497d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950920014629:android:9b4d5f455507040e1248cc",
+        "android_client_info": {
+          "package_name": "com.faris.gps_tracker_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950920014629-6jpmki492fan18qfi6uapn45ftcks6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oeSV88gG2YE6v8_AMoK9uHZi1Qrudko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950920014629-6jpmki492fan18qfi6uapn45ftcks6jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
